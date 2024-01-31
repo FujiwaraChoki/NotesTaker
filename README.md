@@ -5,13 +5,13 @@ the teacher/professor is saying, and get a clean, organized and easy to read sum
 
 ## ToC 📄
 
-- [About](#about)
-- [Installation](#installation)
-  - [Manually](#manually)
-  - [With Script](#with-script)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [About](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
+- [Installation](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
+  - [Manually](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
+  - [With Script](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
+- [Usage](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
+- [Contributing](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
+- [License](https://github.com/FujiwaraChoki/NotesTaker/tree/main?tab=readme-ov-file#license-)
 
 ## About ✨
 
