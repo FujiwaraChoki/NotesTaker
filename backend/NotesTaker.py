@@ -106,7 +106,7 @@ class NotesTaker:
         print(colored("[*] Listening...", "magenta"))
         audio = self.recognizer.listen(source)
         try:
-          text = self.recognizer.recognize_google(audio, language="de-CH")
+          text = self.recognizer.recognize_google(audio, language=self.lang)
           print(colored(f"[+] \"{text}\"", "green"))
           if text:
             if text.lower() == self.STOP_TRIGGER or text.lower().startswith(self.STOP_TRIGGER):
