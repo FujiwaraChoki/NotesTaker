@@ -3,6 +3,23 @@
 Let NotesTaker AI take notes for you during class, so you can focus on understanding what
 the teacher/professor is saying, and get a clean, organized and easy to read summary at the end.
 
+## ToC
+
+- [About](#about)
+- [Installation](#installation)
+  - [Manually](#manually)
+  - [With Script](#with-script)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+NotesTaker is a web app that uses AI to take notes for you during class. It uses the
+[SpeechRecognition](https://pypi.org/project/SpeechRecognition/) python library to convert
+speech to text, and then `g4f` package to summarize the text. The frontend is built with
+[Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/).
+
 ## Installation
 
 ### Manually
