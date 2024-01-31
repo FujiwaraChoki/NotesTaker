@@ -5,5 +5,5 @@ app
 dist
 __pycache__
 .vscode
-summaries/*
+summaries
 *.db
