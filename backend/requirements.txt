@@ -1,0 +1,4 @@
+g4f
+pyaudio
+termcolor
+speechrecognition
