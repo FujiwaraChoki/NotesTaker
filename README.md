@@ -1,9 +1,9 @@
-# NotesTaker
+# NotesTaker 📝
 
 Let NotesTaker AI take notes for you during class, so you can focus on understanding what
 the teacher/professor is saying, and get a clean, organized and easy to read summary at the end.
 
-## ToC
+## ToC 📄
 
 - [About](#about)
 - [Installation](#installation)
@@ -13,14 +13,14 @@ the teacher/professor is saying, and get a clean, organized and easy to read sum
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
+## About ✨
 
 NotesTaker is a web app that uses AI to take notes for you during class. It uses the
 [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) python library to convert
 speech to text, and then `g4f` package to summarize the text. The frontend is built with
 [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/).
 
-## Installation
+## Installation 🧰
 
 ### Manually
 
@@ -66,7 +66,7 @@ chmod +x start.sh
 ./start.sh
 ```
 
-## Usage
+## Usage 🛠️
 
 1. Open `localhost:3000` in your browser
 2. Press Record
@@ -77,7 +77,7 @@ chmod +x start.sh
 7. Click on the lecture you just recorded
 8. Enjoy your notes!
 
-## Contributing
+## Contributing 🙋‍♂️
 
 Contributions are what make the open source community such an amazing place to be learn, inspire,
 and create. Any contributions you make are **greatly appreciated**.
@@ -88,6 +88,6 @@ and create. Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/amazing_feature`)
 5. Open a Pull Request
 
-## License
+## License 📑
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
