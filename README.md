@@ -71,7 +71,7 @@ chmod +x start.sh
 1. Open `localhost:3000` in your browser
 2. Press Record
 3. Start speaking or let the teacher/professor speak
-4. Once you lecture is over, simply say "stop"
+4. Once your lecture is over, simply say "stop"
 5. Wait for the AI to process your audio
 6. Refresh the page
 7. Click on the lecture you just recorded
