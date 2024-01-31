@@ -1,4 +1,6 @@
 g4f
+flask
 pyaudio
 termcolor
+flask-cors
 speechrecognition
