@@ -1,1 +1,1 @@
-(cd backend && python main.py) & (cd frontend && yarn && yarn start)
+(cd backend && python app.py) & (cd frontend && yarn && yarn start)
